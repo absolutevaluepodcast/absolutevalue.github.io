@@ -5,9 +5,9 @@ layout: default
 [Link to RSS Feed](/feed.xml)
 
 
-### Russell Bogue - Decision-making, Data Privacy, and Positivity Inertia
+### Professor J. Michael Kosterlitz - Topological Phase Transitions, Emerging Technologies, and Principles of Creativity
 
-Today, I'm very excited to welcome Russell Bogue, an old friend of mine, who's currently a JD candidate at Yale Law School. Russell is one of the most mature and thoughtful individuals I know. And it was awesome to catch up on with him while discussing everything from trends in data privacy, to the key principles that we believe should guide decision-making and productivity. We hope you enjoy, and thanks for listening.
+Today, I'm excited to welcome Professor Mike Kosterlitz to the podcast. Professor Kosterlitz won the 2016 Nobel Prize in Physics for his work on topological phase transitions and exotic states of matter. He is a very close family friend by way of my Dad, who is his longtime colleague and lunch buddy. They talk physics over lunch every week, and I sometimes am lucky enough to join in, which is always an honor and a delight. On today's episode, we dive into his Nobel-Prize winning work with David Thouless, and how physics research can be similar to rock-climbing. We discuss topics in applied math and using topology for describing phase transitions in two-dimensional materials, and in the pursuit of the theory of everything. We also explore the frontier of quantum computing, emerging technologies, and various trends in our world. During our conversation, we also talk about creativity, resilience, and the human condition. We hope you enjoy.
 
 <!-- standard manual audio player
 <audio controls="controls">
@@ -20,7 +20,7 @@ Today, I'm very excited to welcome Russell Bogue, an old friend of mine, who's c
 -->
 
 <!-- embedding an individual episode -->
-<iframe src="https://anchor.fm/daniel-ling/embed/episodes/Russell-Bogue---Decision-making--Data-Privacy--and-Positivity-Inertia-ej0m6o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/daniel-ling/embed/episodes/Professor-J--Michael-Kosterlitz---Phase-Transitions--Emerging-Tech--and-Principles-of-Creativity-ejo439" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 <br>
 
