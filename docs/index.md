@@ -39,7 +39,7 @@ Hey everyone, I'm Daniel Ling, and welcome to Absolute Value, the podcast about 
 
 ***
 
-### About
+### About: The Themes of Absolute Value
 
 I wanted to have a section on the Absolute Value website to unpack all the layers of meaning within the title of the podcast.
 
