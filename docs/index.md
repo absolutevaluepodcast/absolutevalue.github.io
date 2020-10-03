@@ -41,6 +41,8 @@ Hey everyone, I'm Daniel Ling, and welcome to Absolute Value, the podcast about 
 
 ### About
 
+I wanted to have a section on the Absolute Value website to unpack all the layers of meaning within the title of the podcast.
+
 The three major themes of Absolute Value are:
 * Applied Math
 * Investing
