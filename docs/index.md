@@ -44,6 +44,36 @@ Hey everyone, I'm Daniel Ling, and welcome to Absolute Value, the podcast about 
 I wanted to have a section on the Absolute Value website to unpack all the layers of meaning within the title of the podcast.
 
 The three major themes of Absolute Value are:
-* Applied Math
-* Investing
-* Core Values
+
+* *Applied Math*\
+  At its root, absolute value is a mathematical concept. Mathematics is omnipresent in our world, and the language in which the universe is written. The application of mathematics is ubiquitous across various disciplines, and math can be applied to practically every aspect of society. On the podcast, we talk about all things applied math, including applied math in economics, game theory, physics, computational biology, theoretical chemistry, and population health, as well as politics and government. Applied math provides a rigorous approach to evaluating phenomena in every context and at every scale.
+
+  Applied math plays a significant role in the development of new technologies. At the frontiers of science and technology, applied math drives our understanding of phenomena and leads to new ways of developing future technologies. Mathematics opens the door and provides a road to innovative solutions, advancements of emerging technologies, and news ways of thinking.
+
+  My guests and I dive deep into the cutting edge of scientific research and technological innovation, as well as explore emerging technology. Tune in every month to experience what it's like to be researching at the cutting edge of science and building companies at the frontier of technology.
+
+* *Investing*\
+  One of themes of Absolute Value is investing, and in particular value investing. The premise of investing is looking at trends in our world, examining the future of society, and predicting what is to come. It's an ever-changing world we live in with complex patterns that constantly evolve over time. Investing as well as value investing, is all about looking at our world and deciphering the trends, patterns, spaces, and markets that comprise it.
+
+  I've been in investing for my whole career so far, ever since college, and was lucky enough to start my investment career straight out of undergrad. I feel lucky to have started in investing, while also completing the Investment Banking Division's training program at Morgan Stanley in NYC. It was great to start my career at Morgan Stanley and get the thorough financial foundation and grounding that the firm provides. Morgan Stanley is a great place to start a financial career and a place that emphasizes comprehensive training for analysts.
+
+  The premise of investing has always made for intellectually stimulating and cerebral work, in my mind, as it's centrally about thinking about what the future will look like, studying various markets, and looking at the trends that are shaping our world.
+
+  I've focused on technology investing since graduating from college, which I believe is an especially interesting category of investing. There are many unique aspects of technology investing that make it intellectually challenging, as technology companies can be wide-ranging and fundamentally different from one another in type and approach. New and interesting ideas are presented each and every day. Moreover, technology companies have to be evaluated based on their uniqueness, by their very nature being very different as they redefine markets or create entirely new ones. Evaluating every technology company presents a new and interesting challenge every time and is an intellectual exercise every time.
+
+  A key part of VC has been formulating investment theses, looking at different markets that are being redefined, and developing views on various spaces within technology. One of the most intellectually stimulating and satisfying aspects of VC is deciphering how new technologies can create entirely new markets (or redefine existing ones), provide roads into new fields of innovation, and open new avenues of thought.
+
+  A central premise of venture is the notion that, by building companies at the frontier of technology, we can play an active role in creating the future and a better world for the generations to come. Some of the crucial questions we ask in venture capital are - in what ways can we create the future? What market opportunities have the potential to change the world for the better, and what will it take to do that?
+
+  As an investor, I'm always looking at the patterns and trends of our world and in search of the next big thing. On the podcast, we talk about emerging technologies that will change society and make the world a better place.
+
+  I've found investing, at its core, and especially in venture investing, to be all about thinking about the society we live in and the trends that are shaping our world. At the heart of investing is thinking about where the world is heading, what the future will look like, and how we can create a better world to come. By working on the emerging technologies today, we can change the world and create a future where we can live, do, and be better.
+
+* *Core Values*\
+  The third layer of Absolute Value is examining the core values for living happy, healthy, and productive lives. On the podcast, we talk about the essential principles that enable us to reach our fullest potential, as well as the core concepts that help us think, do, and be better.
+
+  The notion of absolute value, as a mathematical concept, is also a story about optimism and positivity. After all, as a representation of distance from zero, or a physical vector and an expression of magnitude, the absolute value of a negative number becomes a positive number in nature. The mathematical essence of absolute value relates to optimism in this way, looking at the brighter side of things, and having a mindset of positivity.
+
+  On the podcast, we also examine the human condition and talk to guests about real issues concerning life and death. We discuss the "absolute values" of life that matter most - the things that are most important in life, the things that are most pressing, the things we should focus on.
+
+  In summary, in this third layer, we discuss the various ways we can live to our fullest potential and the healthy habits we can follow to become the best versions of ourselves. Tune in as we talk about the foundational concepts and underlying principles that help us live happier, healthier, and more productive lives. These are often general concepts that can apply to anyone, anywhere, and in any field. I personally strive for maximizing health in all aspects of life. On the podcast, my guests and I aim to bring these principles to you too.
