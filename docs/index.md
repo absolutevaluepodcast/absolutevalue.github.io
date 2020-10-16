@@ -52,7 +52,7 @@ Hey everyone, I'm Daniel Ling, and welcome to Absolute Value, the podcast about 
 
 ### About: The Themes of Absolute Value
 
-I wanted to have a section on the Absolute Value website to unpack all the layers of meaning within the title of the podcast.
+I wanted to have a section on the Absolute Value website dedicated to unpacking all the layers of meaning within the title of the podcast.
 
 The three major themes of Absolute Value are:
 
