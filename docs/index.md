@@ -18,8 +18,14 @@ Today, I'm excited to welcome Professor Mike Kosterlitz to the podcast. Professo
 <iframe src="https://anchor.fm/daniel-ling/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 -->
 
-<!-- embedding an individual episode -->
+<!-- anchor, embedding an individual episode
 <iframe src="https://anchor.fm/daniel-ling/embed/episodes/Professor-J--Michael-Kosterlitz---Phase-Transitions--Emerging-Tech--and-Principles-of-Creativity-ejo439" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+-->
+
+
+<!-- spotify embed -->
+<iframe src="https://open.spotify.com/embed-podcast/episode/7cmVrN1gDFJvYcwW6SFSuW" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 <br>
 
@@ -33,7 +39,12 @@ Hey everyone, I'm Daniel Ling, and welcome to Absolute Value, the podcast about 
 </audio>
 -->
 
+<!-- anchor embed
  <iframe src="https://anchor.fm/daniel-ling/embed/episodes/The-Absolute-Value-Podcast-Trailer-ej0p19" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+-->
+
+<!-- spotify embed -->
+<iframe src="https://open.spotify.com/embed-podcast/episode/7AYnIHb4KLZ9biLWU8rXwh" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br>
 
