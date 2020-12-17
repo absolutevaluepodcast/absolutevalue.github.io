@@ -2,6 +2,16 @@
 layout: default
 ---
 
+### Rob Biederman - Authenticity, Leadership, and Company-Building
+
+*Season 1, Episode 2*
+
+I'm thrilled to welcome Rob Biederman to the podcast. Rob is the CEO and Co-Founder of Catalant Technologies, an enterprise software company based in Boston, as well as a seed investor in companies like ArtLifting, Dexai Robotics, and MedRhythms. He previously worked in investing at Bain Capital and Goldman Sachs. Rob is a fellow Princeton alum and received his MBA from Harvard Business School. On the episode, we chat about emerging areas in early-stage technology, principles of effective leadership, and the entrepreneurial mindset. We also discuss the future of work, TeleFitness, and the importance of strategy & alignment in business. We also chat about authenticity, company-building, and the process of creating something genuinely new. We hope you enjoy.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/6Z4RbsPMcnlnjISm6b1ayc" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br>
+
 ### Professor J. Michael Kosterlitz - Topological Phase Transitions, Emerging Technologies, and Principles of Creativity
 
 *Season 1, Episode 1*
@@ -25,7 +35,6 @@ Today, I'm excited to welcome Professor Mike Kosterlitz to the podcast. Professo
 
 <!-- spotify embed -->
 <iframe src="https://open.spotify.com/embed-podcast/episode/7cmVrN1gDFJvYcwW6SFSuW" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 
 <br>
 
