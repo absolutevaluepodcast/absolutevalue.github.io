@@ -2,6 +2,18 @@
 layout: default
 ---
 
+### Epidemiologist Shailesh Date - Vaccine Development/Distribution and Combating the COVID-19 Pandemic
+
+*Season 1, Episode 3*
+
+Today, I'm excited to welcome Dr. Shailesh Date to the podcast. Dr. Date is the CEO of the Laboratory for Research in Complex Systems, a research institute based in Menlo Park focused on complex systems research and venture-building, including research and ventures aimed at tackling the COVID-19 pandemic. He is also the head of Global Viral, an SF-based organization and leader in global research focused on pandemics, with the mission of combating the spread of infectious diseases and dedicated to pandemic prevention and monitoring the transmission of novel viruses globally. Dr. Date is an epidemiologist by trade and a leading expert on infectious diseases. On the episode, we discuss strategies to combat the COVID-19 pandemic globally and our continued fight to control the spread of infectious disease. We also talk about the trajectory of the pandemic, the path for vaccine distribution, and other areas of pandemic research. As we start to see progress in vaccinations across the country and make our way out of the COVID-19 crisis, we discuss the road forward, as well as the infrastructure needed for pandemic preparedness and to prevent potential future pandemics. We discuss SampleExchange, a new software venture that we've launched, and a spinout of the Laboratory for Research in Complex Systems, based here in Menlo Park. SampleExchange serves as a tech-enabled platform to aid the rapid development of urgently needed vaccines for novel viruses, including the COVID-19 vaccine. The platform will serve as part of key infrastructure needed to ensure pandemic preparedness and prevention of global outbreaks. Thanks for tuning in, we hope you enjoy!
+
+(We apologize that some of the audio is removed for some parts involving the ventures we're building and research we're conducting around pandemics, as we can't disclose some of the info due to confidentiality agreements!)
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/6C5TGBMsl7s7CwqOJVdozv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br>
+
 ### Rob Biederman - Authenticity, Leadership, and Company-Building
 
 *Season 1, Episode 2*
