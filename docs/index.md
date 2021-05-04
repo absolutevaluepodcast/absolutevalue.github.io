@@ -2,6 +2,16 @@
 layout: default
 ---
 
+### Amy Molk - EdTech, Virtual Reality, and Interactivity in Early Childhood Education
+
+*Season 1, Episode 4*
+
+Today, I'm excited to welcome Amy Molk on the podcast. Amy is the Founder and CEO of Beanstalk.co, a technology company revolutionizing the way early childhood education is delivered. On the episode, we discuss the future of EdTech, principles of decision-making, and maintaining a mindset of doing the right thing. We also chat about the journey of an entrepreneur as well as trends in virtual reality, and how it can serve as a catalyst for technological innovation in education. We hope you enjoy!
+
+<iframe src="https://open.spotify.com/embed/episode/7MVxlgcL4gxE6EHNrYZzNf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br>
+
 ### Epidemiologist Shailesh Date - Vaccine Development/Distribution and Combating the COVID-19 Pandemic
 
 *Season 1, Episode 3*
