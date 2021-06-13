@@ -2,6 +2,14 @@
 layout: default
 ---
 
+### JC de Swaan - Seeking Virtue in Finance
+
+*Season 1, Episode 6*
+
+Today, I'm excited to welcome JC de Swaan to the podcast. JC is a partner at Cornwall Capital, an investment fund based in New York, and teaches in the Economics Department at Princeton University. On the episode, we talk about his new book, *Seeking Virtue in Finance*, and how we can improve finance from within and help restore its focus on serving society. We discuss the 2008 financial crisis and how it shifted the way we think about finance. The book has been [reviewed by *The Financial Times*](https://www.ft.com/content/a6ba5b92-b7a4-4dcc-84e2-705af24d1dfd) and discusses the potential for a generational shift in how the finance industry operates and is perceived. We hope you enjoy the conversation.
+
+<br>
+
 ### Amy Molk - EdTech, Virtual Reality, and Interactivity in Early Childhood Education
 
 *Season 1, Episode 4*
