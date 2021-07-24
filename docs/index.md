@@ -100,7 +100,7 @@ The three major themes of Absolute Value are:
 
   Applied math plays a significant role in the development of new technologies. At the frontiers of science and technology, applied math drives our understanding of phenomena and leads to new ways of developing future technologies. Applied math opens the door and provides a road to innovative solutions, advancements of emerging technologies, and news ways of thinking.
 
-  My guests and I dive deep into the cutting edge of scientific research and technological innovation, as well as explore emerging technology. Tune in every month to experience what it's like to be researching at the cutting edge of science and building companies at the frontier of technology.
+  My guests and I dive deep into the cutting edge of scientific research and technological innovation, as well as explore emerging technology. I'd love for you to tune in to the podcast and listen in on the journey of researching at the cutting edge of science and building companies at the frontier of technology.
 
 * *Investing*\
   One of the themes of Absolute Value is investing, and in particular value investing. The premise of investing consists of looking at trends in our world, examining the future of society, and predicting what is to come. We live in an ever-changing world, with complex patterns that constantly evolve over time. Investing, as well as value investing, is all about looking at our world and deciphering the trends, patterns, spaces, and markets that comprise it.
