@@ -2,6 +2,12 @@
 layout: default
 ---
 
+### Professor Yan Guo
+
+*Season 1, Episode 11*
+
+<br>
+
 ### JC de Swaan - Seeking Virtue in Finance
 
 *Season 1, Episode 6*
