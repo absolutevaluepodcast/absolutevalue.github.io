@@ -142,13 +142,7 @@ The three major themes of Absolute Value are:
 
   I’m super excited to have been named a Rabi Scholar! Thrilled to have gotten into Columbia College, Class of 2016 and also selected for the Rabi Scholarship!!
 
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/25f04145-2358-4f5f-a13d-435db37bc96e/Untitled.png)
-
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/c9d8858a-4883-4c2c-8c30-9b6038f03891/Untitled.png)
-
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/77ca6d73-0755-4905-8295-4b7750295f51/Untitled.png)
-
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/98836556-4d99-48d7-8ac7-325fb9c603c9/Untitled.png)
+  /assets/img/adm1.png
 
   *March 15th, 2012*
 
