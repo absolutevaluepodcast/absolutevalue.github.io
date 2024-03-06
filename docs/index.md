@@ -46,6 +46,8 @@ I'm thrilled to welcome Rob Biederman to the podcast. Rob is the CEO and Co-Foun
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6Z4RbsPMcnlnjISm6b1ayc" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Z4RbsPMcnlnjISm6b1ayc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <br>
 
 ### Professor J. Michael Kosterlitz - Topological Phase Transitions, Emerging Technologies, and Principles of Creativity
