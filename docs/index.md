@@ -133,3 +133,24 @@ The three major themes of Absolute Value are:
   On the podcast, we also examine the human condition and talk to guests about real issues concerning life and death. We discuss the "absolute values" of life that matter most - the things that are most important in life, the things that are most pressing, the things we should focus on.
 
   In summary, in this third layer, we discuss the various ways we can live to our fullest potential and the healthy habits we can follow to become the best versions of ourselves. Tune in as we talk about the foundational concepts and underlying principles that help us live happier, healthier, and more productive lives. These are often general concepts that can apply to anyone, anywhere, and in any field. I personally strive for maximizing health in all aspects of life. On the podcast, my guests and I aim to bring these principles to you too.
+
+
+
+  ## Blog
+
+  *April 30, 2012*
+
+  I’m super excited to have been named a Rabi Scholar! Thrilled to have gotten into Columbia College, Class of 2016 and also selected for the Rabi Scholarship!!
+
+  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/25f04145-2358-4f5f-a13d-435db37bc96e/Untitled.png)
+
+  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/c9d8858a-4883-4c2c-8c30-9b6038f03891/Untitled.png)
+
+  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/77ca6d73-0755-4905-8295-4b7750295f51/Untitled.png)
+
+  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/98836556-4d99-48d7-8ac7-325fb9c603c9/Untitled.png)
+
+  *March 15th, 2012*
+
+  I got into MIT!!
+  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5f04fd8-662e-47ed-a8bf-62bfaf2d290f/0aec427d-21b6-44db-aea9-9545c9171a19/Untitled.png)
