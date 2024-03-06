@@ -132,7 +132,7 @@ The three major themes of Absolute Value are:
 
   On the podcast, we also examine the human condition and talk to guests about real issues concerning life and death. We discuss the "absolute values" of life that matter most - the things that are most important in life, the things that are most pressing, the things we should focus on.
 
-  In summary, in this third layer, we discuss the various ways we can live to our fullest potential and the healthy habits we can follow to become the best versions of ourselves. Tune in as we talk about the foundational concepts and underlying principles that help us live happier, healthier, and more productive lives. These are often general concepts that can apply to anyone, anywhere, and in any field. I personally strive for maximizing health in all aspects of life. On the podcast, my guests and I aim to bring these principles to you too.test
+  In summary, in this third layer, we discuss the various ways we can live to our fullest potential and the healthy habits we can follow to become the best versions of ourselves. Tune in as we talk about the foundational concepts and underlying principles that help us live happier, healthier, and more productive lives. These are often general concepts that can apply to anyone, anywhere, and in any field. I personally strive for maximizing health in all aspects of life. On the podcast, my guests and I aim to bring these principles to you too.
 
 
 
