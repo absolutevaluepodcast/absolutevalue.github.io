@@ -152,3 +152,7 @@ The three major themes of Absolute Value are:
   I got into MIT!!
 
   ![](adm5.png)
+
+  Hi! Daniel here
+
+  ![](profilephoto.jpg)
