@@ -153,6 +153,12 @@ The three major themes of Absolute Value are:
 
   ![](adm5.png)
 
+  *May 14th, 2011*
+
+  Meeting and chatting with Professor Martin Chalfie at Intel ISEF 2011 in Los Angeles!
+
+  ![](meetingmartinchalfie.jpg)
+
   Hi! Daniel here
 
   ![](profilephoto.jpg)
