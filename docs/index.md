@@ -162,5 +162,5 @@ The three major themes of Absolute Value are:
   Hi! Daniel here
 
   ![](profilephoto3.jpg)
-  ![](profilephoto2.jpg)
   ![](profilephoto.jpg)
+  ![](profilephoto2.jpg)
